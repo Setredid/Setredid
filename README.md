@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Setredid
 - 👀 I’m interested in Beautiful Code
-- 🌱 I’m currently learning C#/C++
-- 💞️ I’m looking to collaborate on NOBODY
+- 🌱 I’m currently learning TS/C++
 - 📫 How to reach me: Discord - ツSetredidツ#0397
 
 <!---
